@@ -5,6 +5,7 @@ This contains data sets which are copied from Cloudera Quick Start VM.
 Here are the instructions to setup this repository.
 
 * Clone the repository `git clone https://github.com/dgadiraju/retail_db.git`
+* Clone the repository `git clone https://github.com/maistryateeq/of.git`
 * It will create folder called as retail_db.
 * Folder contains 6 sub folders
   * customers
